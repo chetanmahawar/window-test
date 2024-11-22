@@ -1,0 +1,33 @@
+{
+  "info": {
+    "_postman_id": "cccf15d7-ba3a-4f96-a9d7-241cf9cd65af",
+    "name": "3rd coll",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-11-22T16:10:21.000Z",
+    "createdAt": "2024-11-22T16:10:21.000Z",
+    "lastUpdatedBy": "39752485",
+    "uid": "39752485-cccf15d7-ba3a-4f96-a9d7-241cf9cd65af"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "id": "16ff8c7f-9551-4e27-94d2-9318d289f8da",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "https:new",
+          "host": [
+            "https"
+          ],
+          "port": "new"
+        }
+      },
+      "response": [],
+      "uid": "39752485-16ff8c7f-9551-4e27-94d2-9318d289f8da"
+    }
+  ]
+}

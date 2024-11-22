@@ -1,0 +1,32 @@
+{
+  "info": {
+    "_postman_id": "eeaae852-9198-4b63-ab90-7deabc87d9fd",
+    "name": "new added by safari",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-11-22T16:10:24.000Z",
+    "createdAt": "2024-11-22T16:10:24.000Z",
+    "lastUpdatedBy": "39752485",
+    "uid": "39752485-eeaae852-9198-4b63-ab90-7deabc87d9fd"
+  },
+  "item": [
+    {
+      "name": "123",
+      "id": "dc53b844-b8ec-4241-be1b-754b684153bd",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "ba",
+          "host": [
+            "ba"
+          ]
+        }
+      },
+      "response": [],
+      "uid": "39752485-dc53b844-b8ec-4241-be1b-754b684153bd"
+    }
+  ]
+}

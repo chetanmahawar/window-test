@@ -1,0 +1,71 @@
+{
+  "info": {
+    "_postman_id": "aeac5ab3-035a-4db2-a447-420ffea823a9",
+    "name": "first collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-11-22T16:10:23.000Z",
+    "createdAt": "2024-11-22T16:10:23.000Z",
+    "lastUpdatedBy": "39752485",
+    "uid": "39752485-aeac5ab3-035a-4db2-a447-420ffea823a9"
+  },
+  "item": [
+    {
+      "name": "first re",
+      "id": "7f2a2506-99af-422e-9b94-b71d4f6ad2e8",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "auth": {
+          "type": "apikey",
+          "apikey": [
+            {
+              "key": "value",
+              "value": "2113",
+              "type": "string"
+            },
+            {
+              "key": "key",
+              "value": "111",
+              "type": "string"
+            }
+          ]
+        },
+        "method": "GET",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "bearer 3y94y83298",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"name\" : \"test\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://new.login.com?user=1",
+          "protocol": "https",
+          "host": [
+            "new",
+            "login",
+            "com"
+          ],
+          "query": [
+            {
+              "key": "user",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": [],
+      "uid": "39752485-7f2a2506-99af-422e-9b94-b71d4f6ad2e8"
+    }
+  ]
+}
