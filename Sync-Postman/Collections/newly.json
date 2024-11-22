@@ -1,0 +1,39 @@
+{
+  "info": {
+    "_postman_id": "06cf0cd2-4de9-48e1-bfe4-13468e4a5229",
+    "name": "newly",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-11-22T16:10:26.000Z",
+    "createdAt": "2024-11-22T16:10:26.000Z",
+    "lastUpdatedBy": "39752485",
+    "uid": "39752485-06cf0cd2-4de9-48e1-bfe4-13468e4a5229"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "id": "3bc9cb6a-a4a8-452e-a7aa-8429d6684203",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "HEAD",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/api/dms/uploadtosharepoint",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "dms",
+            "uploadtosharepoint"
+          ]
+        }
+      },
+      "response": [],
+      "uid": "39752485-3bc9cb6a-a4a8-452e-a7aa-8429d6684203"
+    }
+  ]
+}
