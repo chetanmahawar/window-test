@@ -1,0 +1,50 @@
+{
+  "info": {
+    "_postman_id": "ed9bd234-f7fc-4695-bd29-d09b4a9dc2e7",
+    "name": "test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-11-23T11:57:52.000Z",
+    "createdAt": "2024-11-23T11:57:36.000Z",
+    "lastUpdatedBy": "39752485",
+    "uid": "39752485-ed9bd234-f7fc-4695-bd29-d09b4a9dc2e7"
+  },
+  "item": [
+    {
+      "name": "giyy",
+      "id": "16393858-5a4a-4ba5-9814-565328adb39b",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://api.github.com/repos/RAHULDAS6009/test-postman/contents/Sync-Postman/Collections/2nd coll.json?ref=feature-branch-1732361881716",
+          "protocol": "https",
+          "host": [
+            "api",
+            "github",
+            "com"
+          ],
+          "path": [
+            "repos",
+            "RAHULDAS6009",
+            "test-postman",
+            "contents",
+            "Sync-Postman",
+            "Collections",
+            "2nd coll.json"
+          ],
+          "query": [
+            {
+              "key": "ref",
+              "value": "feature-branch-1732361881716"
+            }
+          ]
+        }
+      },
+      "response": [],
+      "uid": "39752485-16393858-5a4a-4ba5-9814-565328adb39b"
+    }
+  ]
+}
